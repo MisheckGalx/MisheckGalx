@@ -62,11 +62,6 @@ HealthConnect is a comprehensive solution aimed at improving healthcare delivery
 
 <a href="http://www.github.com/MisheckGalx"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MisheckGalx&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
-</div>
-
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
