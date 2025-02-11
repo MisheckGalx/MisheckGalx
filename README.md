@@ -41,6 +41,9 @@ I'm a results-driven **Full Stack Software Engineer** with a passion for craftin
 
 HealthConnect is a comprehensive solution aimed at improving healthcare delivery in Zimbabwe, particularly in rural areas. By leveraging technology, we aim to enhance access to healthcare services through a telemedicine platform, a mobile health app, and an electronic health record (EHR) system. This project showcases our skills in designing and developing web and app solutions tailored to the unique challenges of the Zimbabwean healthcare system.
 
+### [CoinTrack](https://github.com/MisheckGalx/CoinTrack.git)
+
+CoinTrack is a powerful and intuitive personal finance tracker designed to help you manage your income and expenses efficiently. With CoinTrack, you can easily keep track of your financial transactions, categorize your spending, and visualize your financial data through insightful charts.The project demonstrates proficiency in backend development and serves as a showcase of Full Stack Software Engineering skills.
 
 ## Socials
 
