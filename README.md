@@ -4,7 +4,7 @@ Hi My name is Misheck Gogo
 🌟 Full Stack Software Engineer | Backend Engineer
 -----------------
 
-I'm a results-driven **Full Stack Software Engineer** with a passion for crafting robust and scalable applications. I specialize in **React JS**, **React Native**, and **RESTful APIs**, with a focus on delivering exceptional user experiences.
+I'm a results-driven **Full Stack Software Engineer** with a passion for crafting robust and scalable applications. I specialize in **React JS**, and **RESTful APIs**, with a focus on delivering exceptional user experiences.
 
 
 ## About Me
@@ -17,16 +17,12 @@ I'm a results-driven **Full Stack Software Engineer** with a passion for craftin
 ## Skills
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React JS" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="SASS" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=firebase,webpack,vite,docker,npm,redux" />
 </a>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
