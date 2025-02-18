@@ -45,11 +45,14 @@ HealthConnect is a comprehensive solution aimed at improving healthcare delivery
 
 CoinTrack is a powerful and intuitive personal finance tracker designed to help you manage your income and expenses efficiently. With CoinTrack, you can easily keep track of your financial transactions, categorize your spending, and visualize your financial data through insightful charts.The project demonstrates proficiency in backend development and serves as a showcase of Full Stack Software Engineering skills.
 
+### [Mhondoro](https://github.com/MisheckGalx/Mhondoro.git)
+
+Mhondoro is a web-based platform that connects small-scale miners in Zimbabwe with suppliers offering mining equipment for sale or rent. The platform provides a structured way to browse, compare, and contact suppliers efficiently.
+
 ## Socials
 
 <p align="left">
   <a href="https://www.github.com/MisheckGalx" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-  <a href="http://www.instagram.com/kingboris28_" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
   <a href="https://www.linkedin.com/in/Misheck Gogo" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   <a href="https://www.twitter.com/kingboris28" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
