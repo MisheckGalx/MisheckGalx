@@ -4,7 +4,7 @@ Hi My name is Misheck Gogo
 🌟 Backend Engineer | Cloud Architect
 -----------------
 
-I'm a results driven **Full Stack Software Engineer** passionate about building robust, scalable, and high performance applications. I specialize in **Python**, **React.js**, and designing **RESTful APIs**, with a strong focus on backend architecture, cloud technologies, and delivering seamless user experiences.My experience includes API development, database design, cloud platforms, and modern web technologies.
+I'm a results driven **Full Stack Software Engineer** passionate about building robust, scalable, and high performance applications. I specialize in **Python**, **React.js**, and designing **RESTful APIs**, with a strong focus on backend architecture, cloud technologies, and delivering seamless user experiences. My experience includes API development, database design, cloud platforms, and modern web technologies.
 
 ## About Me
 
@@ -16,36 +16,32 @@ I'm a results driven **Full Stack Software Engineer** passionate about building 
 ## Skills
 
 <p align="left">
-  <!-- Languages -->
-  <strong>Languages:</strong>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
-  <br><br>
 
-  <!-- Frameworks & Libraries -->
-  <strong>Frameworks & Libraries:</strong>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React JS" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" />
-  <br><br>
+<!-- Languages -->
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
 
-  <!-- Styling -->
-  <strong>Styling:</strong>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="SASS" />
-  <br><br>
+<!-- Tool Icons -->
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=firebase,webpack,vite,docker,npm,redux" />
+</a>
 
-  <!-- Tools -->
-  <strong>Tools:</strong>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
-  <br><br>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
 
-  <!-- Platforms -->
-  <strong>Platforms:</strong>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
+</a>
+
+<a href="https://www.linux.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
+</a>
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=mysql,bash,git,vim" />
+</a>
 
   <!-- Soft Skills -->
   <strong>Soft Skills:</strong>
