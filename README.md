@@ -1,7 +1,7 @@
 Hi My name is Misheck Gogo
 =======================================================================================================================================
 
-🌟 Full Stack Software Engineer | Backend Engineer | Cloud Architect
+🌟 Backend Engineer | Cloud Architect
 -----------------
 
 I'm a results-driven **Full Stack Software Engineer** with a passion for crafting robust and scalable applications. I specialize in **React JS**, and **RESTful APIs**, with a focus on delivering exceptional user experiences.
