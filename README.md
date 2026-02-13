@@ -10,7 +10,7 @@ I'm a results driven **Full Stack Software Engineer** passionate about building 
 
 - 🌟 Based in South Africa , passionate about technology and innovation.
 - ✉️ Reach out to me at [misheckgogo45@gmail.com](mailto:misheckgogo45@gmail.com).
-- 🚀 Currently honing my skills in Mobile Development using React Native.
+- 🚀 Reach out on my portfolio: https://misheck-gogo.netlify.app/
 - 🧠 Comfortable working on both frontend and backend technologies.
 
 ## Skills
