@@ -1,4 +1,4 @@
-.Hi, My name is Misheck Gogo
+Hi, My name is Misheck Gogo
 =======================================================================================================================================
 
 🌟 Backend Engineer | Cloud Architect
@@ -9,8 +9,8 @@ I'm a results driven **Full Stack Software Engineer** passionate about building 
 ## About Me
 
 - 🌟 Based in South Africa , passionate about technology and innovation.
-- ✉️ Reach out to me at [misheckgogo45@gmail.com](mailto:misheckgogo45@gmail.com).
-- 🚀 Reach out on my portfolio:[misheckgogo.netlify.app](https://misheckgogo.netlify.app/)
+- ✉️ Reach out to me at : [misheckgogo45@gmail.com](mailto:misheckgogo45@gmail.com).
+- 🚀 Reach out on my portfolio : [misheckgogo.netlify.app](https://misheckgogo.netlify.app/)
 - 🧠 Comfortable working on both frontend and backend technologies.
 
 ## Skills
