@@ -2,13 +2,11 @@
 
 ![](https://komarev.com/ghpvc/?username=MisheckGalx&label=Profile%20Visits&color=blue&style=flat)
 
-I'm a Backend Engineer moving deliberately into **Cloud Solutions Architecture** — Python and RESTful API design are my foundation, and I'm actively building on that with AWS, Java, and infrastructure-as-code.
+I'm a Backend Engineer moving deliberately into **Cloud Solutions Architecture**  Python and RESTful API design are my foundation, and I'm actively building on that with AWS, Java, and infrastructure-as-code.
 
 - 🌱 Currently learning: Java, AWS Solutions Architecture patterns
 - 👯 I'm looking to collaborate on: Cloud & Serverless projects
 - 🤔 Interested in: Cloud Native systems, IAM & security design, event-driven architecture
-- ☁️ Currently pursuing: AWS Cloud Engineering certification (ALX Africa)
-- ❤️ Open Source Software
 
 
 ## 🔧 Technologies & Tools
@@ -48,9 +46,8 @@ A professional corporate website for an Electrical & Instrumentation engineering
 
 
 ## 🏆 Certifications & Training
-- Software Engineering — Certificate, ALX Africa (Cohort 19, Top 10 Week 6 finalist out of 700+ backend developers)
-- AWS Cloud Computing — ALX Africa *(in progress, 2025–2026)*
-- 🎯 Pursuing: AWS Certified Solutions Architect – Associate
+- Software Engineering — Certificate, ALX Africa (Cohort 19)
+- AWS Cloud Computing — ALX Africa
 
 
 ## 📬 Connect with Me
