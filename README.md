@@ -5,7 +5,7 @@
 I'm a Backend Engineer moving deliberately into **Cloud Solutions Architecture**  Python and RESTful API design are my foundation, and I'm actively building on that with AWS, Java, and infrastructure-as-code.
 
 - 🌱 Currently learning: Java, AWS Solutions Architecture patterns
-- 👯 I'm looking to collaborate on: ![website](https://misheckgogo.netlify.app/)
+- 👯 I'm looking to collaborate on:['website'](https://misheckgogo.netlify.app/)
 - 🤔 Interested in: Cloud Native systems, IAM & security design, event-driven architecture
 
 
