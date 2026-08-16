@@ -1,17 +1,18 @@
 Hi, My name is Misheck Gogo
 =======================================================================================================================================
 
-🌟 Backend Engineer | Cloud Architect
+🌟 Backend Engineer | Aspiring AWS Solutions Architect
 -----------------
 
-I'm a results driven **Full Stack Software Engineer** passionate about building robust, scalable, and high performance applications. I specialize in **Python**, **React.js**, and designing **RESTful APIs**, with a strong focus on backend architecture, cloud technologies, and delivering seamless user experiences. My experience includes API development, database design, cloud platforms, and modern web technologies.
+I'm a backend engineer moving deliberately into **cloud solutions architecture**. My foundation is **Python** and RESTful API design, and I'm actively building on that with **Java**, hands-on **AWS** work, and infrastructure-as-code. I like architecting systems as much as coding them — serverless pipelines, least-privilege IAM design, event-driven automation — and I learn by shipping real, working systems end to end.
 
 ## About Me
 
-- 🌟 Based in South Africa , passionate about technology and innovation.
-- ✉️ Reach out to me at : [misheckgogo45@gmail.com](mailto:misheckgogo45@gmail.com).
-- 🚀 Reach out on my portfolio : [misheckgogo.netlify.app](https://misheckgogo.netlify.app/)
-- 🧠 Comfortable working on both frontend and backend technologies.
+- 🌟 Based in South Africa, passionate about technology and cloud architecture.
+- ✉️ Reach out to me at: [misheckgogo45@gmail.com](mailto:misheckgogo45@gmail.com)
+- 🚀 Portfolio: [misheckgogo.netlify.app](https://misheckgogo.netlify.app/)
+- ☁️ Currently pursuing AWS Cloud Engineering certification (ALX Africa).
+- 🧠 Comfortable across the stack — backend systems, cloud infrastructure, and frontend delivery.
 
 ## Skills
 
@@ -23,54 +24,63 @@ I'm a results driven **Full Stack Software Engineer** passionate about building 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
 
-<!-- Tool Icons -->
+<!-- Cloud & Tools -->
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=firebase,webpack,vite,docker,npm,redux" />
+<img src="https://skillicons.dev/icons?i=aws,java,firebase,docker,vite,redux" />
 </a>
 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
-
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
-</a>
 
 <a href="https://www.linux.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
 </a>
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=mysql,bash,git,vim" />
+<img src="https://skillicons.dev/icons?i=mysql,bash,vim" />
 </a>
 
-  <!-- Soft Skills -->
+  <br/><br/>
+  <strong>Cloud & Architecture:</strong>
+  AWS Lambda, API Gateway, DynamoDB, S3, IAM, EventBridge, SNS, CloudTrail, AWS Config, CloudFormation, Serverless Architecture
+
+  <br/><br/>
   <strong>Soft Skills:</strong>
-  Leadership, Problem Solving, UI/UX Design, OOP, Teamwork
+  Leadership, Problem Solving, Stakeholder Communication, Teamwork
 </p>
 
+## Featured Projects
 
-## Projects
+### ☁️ [AWS Healthcare Compliance & Automated Remediation](https://github.com/MisheckGalx/aws-healthcare-compliance-platform.git)
 
-### [HealthConnectZim](https://github.com/MisheckGalx/HealthConnect-Zim.git)
+A serverless, HIPAA-style continuous-compliance pipeline: AWS Config continuously evaluates S3 buckets, EventBridge detects violations in real time, Lambda auto-remediates, and CloudTrail provides a full audit trail. Verified end-to-end against a live AWS account with zero manual intervention.
 
-HealthConnect is a comprehensive solution aimed at improving healthcare delivery in Zimbabwe, particularly in rural areas. By leveraging technology, we aim to enhance access to healthcare services through a telemedicine platform, a mobile health app, and an electronic health record (EHR) system. This project showcases our skills in designing and developing web and app solutions tailored to the unique challenges of the Zimbabwean healthcare system.
+**Tech:** AWS Config · EventBridge · Lambda · SNS · CloudTrail
 
-### [CoinTrack](https://github.com/MisheckGalx/CoinTrack.git)
+### ☁️ [AWS Task Manager — Serverless REST API](https://github.com/MisheckGalx/aws-task-manager.git)
 
-CoinTrack is a powerful and intuitive personal finance tracker designed to help you manage your income and expenses efficiently. With CoinTrack, you can easily keep track of your financial transactions, categorize your spending, and visualize your financial data through insightful charts.The project demonstrates proficiency in backend development and serves as a showcase of Full Stack Software Engineering skills.
+A serverless task-management REST API built on API Gateway, Lambda, and DynamoDB, with the entire infrastructure defined and deployed via CloudFormation. Single-table DynamoDB design for efficient per-user queries and independently scoped, least-privilege IAM roles per function.
 
-### [Mhondoro](https://github.com/MisheckGalx/Mhondoro.git)
+**Tech:** API Gateway · AWS Lambda · DynamoDB · CloudFormation · Python
 
-Mhondoro is a web-based platform that connects small-scale miners in Zimbabwe with suppliers offering mining equipment for sale or rent. The platform provides a structured way to browse, compare, and contact suppliers efficiently.
+### ☁️ [DropForge — Secure S3 Presigned Upload Pattern](https://github.com/MisheckGalx/dropforge.git)
+
+A FastAPI backend implementing the direct-to-S3 presigned-URL upload pattern files move straight from browser to S3 without touching the app server or exposing AWS credentials client side. Locked down with Block Public Access, a dedicated least privilege IAM identity, and CORS.
+
+**Tech:** AWS S3 · IAM · FastAPI · Python · CORS
+
+### 🏗️ [Eland Expert Engineers](https://github.com/MisheckGalx/Eland-expert-engineers.git)
+
+A professional corporate website for an Electrical & Instrumentation engineering firm, covering power generation, water treatment, mining, and industrial automation services.
+
+**Tech:** Node.js · Express · SQLite
 
 ## Socials
 
 <p align="left">
   <a href="https://www.github.com/MisheckGalx" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-  <a href="https://www.linkedin.com/in/Misheck Gogo" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  <a href="https://www.twitter.com/kingboris28" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/misheckgogo" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
-
 
 ## Stats
 
