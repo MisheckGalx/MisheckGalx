@@ -5,7 +5,7 @@
 I'm a Backend Engineer moving deliberately into **Cloud Solutions Architecture**  Python and RESTful API design are my foundation, and I'm actively building on that with AWS, Java, and infrastructure-as-code.
 
 - 🌱 Currently learning: Java, AWS Solutions Architecture patterns
-- 👯 I'm looking to collaborate on: Cloud & Serverless projects
+- 👯 I'm looking to collaborate on: ![website](https://misheckgogo.netlify.app/)
 - 🤔 Interested in: Cloud Native systems, IAM & security design, event-driven architecture
 
 
@@ -29,15 +29,15 @@ I'm a Backend Engineer moving deliberately into **Cloud Solutions Architecture**
 ## 💻 Featured Projects
 
 ### [AWS Healthcare Compliance & Automated Remediation](https://github.com/MisheckGalx/aws-healthcare-compliance-platform)
-A serverless, HIPAA-style continuous-compliance pipeline: AWS Config evaluates S3 buckets, EventBridge detects violations in real time, Lambda auto-remediates, and CloudTrail provides a full audit trail.
+A serverless, HIPAA style continuous compliance pipeline: AWS Config evaluates S3 buckets, EventBridge detects violations in real time, Lambda auto-remediates, and CloudTrail provides a full audit trail.
 [`View Repository`](https://github.com/MisheckGalx/aws-healthcare-compliance-platform)
 
-### [AWS Task Manager — Serverless REST API](https://github.com/MisheckGalx/aws-task-manager)
-A serverless task-management REST API on API Gateway, Lambda, and DynamoDB, with the entire infrastructure defined and deployed via CloudFormation — no manual console setup.
+### [AWS Task Manager Serverless REST API](https://github.com/MisheckGalx/aws-task-manager)
+A serverless task-management REST API on API Gateway, Lambda, and DynamoDB, with the entire infrastructure defined and deployed via CloudFormation no manual console setup.
 [`View Repository`](https://github.com/MisheckGalx/aws-task-manager)
 
-### [DropForge — Secure S3 Presigned Upload Pattern](https://github.com/MisheckGalx/dropforge)
-A FastAPI backend implementing direct-to-S3 presigned-URL uploads, locked down with Block Public Access, a dedicated least-privilege IAM identity, and CORS configuration.
+### [DropForge Secure S3 Presigned Upload Pattern](https://github.com/MisheckGalx/dropforge)
+A FastAPI backend implementing direct to S3 presigned-URL uploads, locked down with Block Public Access, a dedicated least-privilege IAM identity, and CORS configuration.
 [`View Repository`](https://github.com/MisheckGalx/dropforge)
 
 ### [Eland Expert Engineers](https://github.com/MisheckGalx/Eland-expert-engineers)
